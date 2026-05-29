@@ -1,16 +1,9 @@
 ---
 layout: default
-title: Appliances
+title: Kitchen
+has_children: true
 ---
 
-# Household Appliances
+# Kitchen Guides
 
-Here you can find the manuals and basic operating steps for the main kitchen appliances.
-
-### Oven & Hob
-* **Model:** Neff Double Oven
-* **Note:** The clock must be set after a power cut, or the main oven will not heat up.
-
-### Dishwasher
-* **Model:** Bosch Series 4
-* **Salt/Rinse Aid:** Compartments are on the inside of the door.
+Welcome to the kitchen section. Use the dropdown menu in the sidebar to view specific appliance manuals.
