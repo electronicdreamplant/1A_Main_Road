@@ -1,13 +1,15 @@
 title: Home Handover Guide
 description: A practical guide for the new owners.
-theme: jekyll-theme-primer
 
-# Domain settings for Option A subfolder mapping
+# Tells GitHub to explicitly pull the layout from the official stable release tag
+remote_theme: just-the-docs/just-the-docs@v0.7.0
+
+# Tells Jekyll to skip looking for a standard local theme gem
+theme: []
+
+# Let's clean up the URLs to match exactly how GitHub routes your Option A setup
 url: "https://www.ox1.digital.co.uk"
 baseurl: "/handover"
-
-# Load the Just the Docs theme directly via GitHub Pages remote themes
-remote_theme: just-the-docs/just-the-docs
 
 # Navigation configuration to automate alphabetical sorting
 nav_sort: title
