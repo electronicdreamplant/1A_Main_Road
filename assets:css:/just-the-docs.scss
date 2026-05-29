@@ -1,5 +1,10 @@
 ---
 ---
 
-@import "custom";
+// 1. Define custom layout overrides first
+$sidebar-width: 220px;
+$sidebar-width-md: 220px;
+$content-width: 800px;
+
+// 2. Import the main theme styling directly from the remote layout
 @import "just-the-docs";
