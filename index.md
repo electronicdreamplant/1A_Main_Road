@@ -5,9 +5,11 @@ nav_order: 1
 permalink: /
 ---
 
-# Home Handover Guide
+# 1A Main Road Handover
 
-Welcome to the digital handbook for your new home. Use the navigation sidebar on the left (or the menu icon at the top if you are on a mobile phone) to find operational details, utility locations, and appliance instructions.
+Welcome to the digital handbook for your new home!
+
+Use the navigation sidebar on the left (or the menu icon at the top if you are on a mobile phone) to find operational details, utility locations, and appliance instructions.
 
 ### Quick Start
 * **Stopcock Location:** Under the kitchen sink.
