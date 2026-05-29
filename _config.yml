@@ -14,8 +14,13 @@ baseurl: "/1A_Main_Road"
 # Navigation configuration to automate alphabetical sorting
 nav_sort: title
 
-# Tighten layout spacing and narrow the left sidebar
-just_the_docs:
-  layout:
-    sidebar_width: 200px
-    content_width: 800px
+# Injects custom CSS to override the theme's wide desktop sidebar wrapper
+aux_links:
+  _style: |
+    <style>
+      @media (min-width: 64rem) {
+        .side-nav { width: 220px !important; }
+        .main { margin-left: 220px !important; }
+        .main-header { left: 220px !important; }
+      }
+    </style>
