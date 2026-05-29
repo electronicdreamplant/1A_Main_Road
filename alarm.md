@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Alarm Codes
+title: Alarm system
 ---
 
-# Security & Alarm Codes
+# Alarm system
 
 Information regarding the house alarm system.
 
