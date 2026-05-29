@@ -13,3 +13,9 @@ baseurl: "/1A_Main_Road"
 
 # Navigation configuration to automate alphabetical sorting
 nav_sort: title
+
+# Tighten layout spacing and narrow the left sidebar
+just_the_docs:
+  layout:
+    sidebar_width: 200px
+    content_width: 800px
