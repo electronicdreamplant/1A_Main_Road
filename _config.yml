@@ -1,0 +1,13 @@
+title: Home Handover Guide
+description: A practical guide for the new owners.
+theme: jekyll-theme-primer
+
+# Domain settings for Option A subfolder mapping
+url: "https://www.ox1.digital.co.uk"
+baseurl: "/handover"
+
+# Load the Just the Docs theme directly via GitHub Pages remote themes
+remote_theme: just-the-docs/just-the-docs
+
+# Navigation configuration to automate alphabetical sorting
+nav_sort: title
