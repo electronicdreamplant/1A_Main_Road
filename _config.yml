@@ -13,3 +13,6 @@ baseurl: "/1A_Main_Road"
 
 # Navigation configuration to automate alphabetical sorting
 nav_sort: title
+
+# Tell the theme to load your custom compiled stylesheet
+scss: custom-style
